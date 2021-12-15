@@ -1,5 +1,6 @@
 # Futurama
 **Futurama** Futurama is a website for new businesses in the technology industry that allows them to communicate with clients and offers services such as conversing with possible buyers before having a video call, producing tikets for each problems that occur, and so many more including other website data.
+Laravel ideology was used to write the code in PHP.
 
 ---
 Home View
