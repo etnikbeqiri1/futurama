@@ -2,10 +2,6 @@
 
 class Database
 {
-/*    static private $serverName = '185.61.137.174';
-    static private $user = 'merrlike_futurama';
-    static private $password = 'shkumbin111';
-    static private $databaseName = 'merrlike_futurama';*/
     static private $serverName = 'localhost';
     static private $user = 'root';
     static private $password = '';
